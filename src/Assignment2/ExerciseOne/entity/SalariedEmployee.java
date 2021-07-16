@@ -1,4 +1,4 @@
-package Assignment2.ExerciseOne;
+package Assignment2.ExerciseOne.entity;
 
 public class SalariedEmployee extends Employee {
 	private double commissionRate;
