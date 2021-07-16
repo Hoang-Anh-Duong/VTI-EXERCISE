@@ -14,6 +14,7 @@ public class DepartmentManage {
 		listDepartment.add(ac);
 		listDepartment.add(p1);
 		listDepartment.add(p2);
+System.out.print("ok");
 	}
 	
 	public static void initEmployee(List<Employee> listEmployee) {
