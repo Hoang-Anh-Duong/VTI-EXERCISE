@@ -7,6 +7,7 @@ public class Department {
 	private List<Employee> listOfEmployee = null;
 
 	public Department(String department) {
+		this.listOfEmployee = new ArrayList<Employee>();
 		this.departmentName = department;
 	}
 
